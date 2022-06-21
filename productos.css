@@ -1,3 +1,10 @@
+.productos {
+    display: inline-block;
+}
+
+
+
+
 .productos li{
     display: inline-block;
     text-align: center;
